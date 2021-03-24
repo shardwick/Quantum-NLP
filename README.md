@@ -1,2 +1,2 @@
 # Quantum-NLP
-Compositional distributed NLP model
+Compositional Distributed NLP model
